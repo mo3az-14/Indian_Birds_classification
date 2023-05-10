@@ -1,1 +1,2 @@
 # Indian_Birds_classification
+This is a Google colab notebook used for classifying 3- different species of birds found in India. Here we are using a subset of the 25-Indian-Birds dataset on Kaggle https://www.kaggle.com/datasets/arjunbasandrai/25-indian-bird-species-with-226k-images. here I created a subset of the dataset and used it to try transfer learning on the efficient net B0 model and apply it to this dataset and we managed to get 94% accuracy!
